@@ -1,5 +1,4 @@
 import { Scissors, Sparkles } from 'lucide-react'
-import { VideoClipper } from '@/components/video-clipper'
 
 export default function Page() {
   return (
